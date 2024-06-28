@@ -1,1 +1,129 @@
-{"paths":{"0":["Nut",2],"1":["Bean",2],"2":["Zombie0001",2],"3":["Flower",2],"4":["index_atlas0",2],"5":["Flower",3],"6":["Zombie0001",0,1],"7":["Bean",0,1],"8":["Zombie0001",1],"9":["Zombie0001",3],"10":["index_s7nen",5],"11":["Bean",1],"12":["index_atlas0",0,1],"13":["Nut",3],"14":["Nut",0,1],"15":["Flower",0,1],"16":["Flower",1],"17":["index",4],"18":["Nut",1],"19":["Bean",3]},"types":["cc.SpriteFrame","cc.Asset","cc.Texture2D","sp.SkeletonData","cc.BufferAsset","cc.AudioClip"],"uuids":["711am7p09J0LB33cin9txf","75reUM6GRGfrQY7N48EYlr","8fQ7ZK9itCvLW611ODcmqr","96kZzViDdHSbqeel7ckd4w","fddr3O2MREW6nALxV+ZKgp","02DpxXxbFAfryi30PZcT5d","19LksPmDFNTreVobDTkdvp","24eehwQQtGWZETj8lpb3fw","286uZlg6NJN4C7/ZXlciM+","360UjzxbBCsqTj1t0VuHZ9","3crbL2xd9BcJCxBZwSB3K8","45oyVoGzxPS7+g1K+r33y8","5djeULsY5D16RaBDQDFX3m","62+Re2TAtCyK3aTdB8yIPb","6f3vpUJhNEvY4TadunWjLR","a1dHTBfKdNl4g9IuoyfmXV","b0ZVmF8YJE/Ki326ZfRsuu","b7G27UAytBvI9TtWVIjC7o","begeyGV35A5qeCDfQvGFeq","ceMq8gczNKFozh5Jn/msOr"],"scenes":{},"redirect":[],"deps":[],"packs":{"07bce45e0":[0,1,2,3,4]},"name":"fgui","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false}
+{
+    "paths": {
+        "24eehwQQtGWZETj8lpb3fw": [
+            "Bean",
+            "cc.SpriteFrame",
+            1
+        ],
+        "45oyVoGzxPS7+g1K+r33y8": [
+            "Bean",
+            "cc.Asset"
+        ],
+        "75reUM6GRGfrQY7N48EYlr": [
+            "Bean",
+            "cc.Texture2D"
+        ],
+        "ceMq8gczNKFozh5Jn/msOr": [
+            "Bean",
+            "sp.SkeletonData"
+        ],
+        "02DpxXxbFAfryi30PZcT5d": [
+            "Flower",
+            "sp.SkeletonData"
+        ],
+        "96kZzViDdHSbqeel7ckd4w": [
+            "Flower",
+            "cc.Texture2D"
+        ],
+        "a1dHTBfKdNl4g9IuoyfmXV": [
+            "Flower",
+            "cc.SpriteFrame",
+            1
+        ],
+        "b0ZVmF8YJE/Ki326ZfRsuu": [
+            "Flower",
+            "cc.Asset"
+        ],
+        "62+Re2TAtCyK3aTdB8yIPb": [
+            "Nut",
+            "sp.SkeletonData"
+        ],
+        "6f3vpUJhNEvY4TadunWjLR": [
+            "Nut",
+            "cc.SpriteFrame",
+            1
+        ],
+        "711am7p09J0LB33cin9txf": [
+            "Nut",
+            "cc.Texture2D"
+        ],
+        "begeyGV35A5qeCDfQvGFeq": [
+            "Nut",
+            "cc.Asset"
+        ],
+        "19LksPmDFNTreVobDTkdvp": [
+            "Zombie0001",
+            "cc.SpriteFrame",
+            1
+        ],
+        "286uZlg6NJN4C7/ZXlciM+": [
+            "Zombie0001",
+            "cc.Asset"
+        ],
+        "360UjzxbBCsqTj1t0VuHZ9": [
+            "Zombie0001",
+            "sp.SkeletonData"
+        ],
+        "8fQ7ZK9itCvLW611ODcmqr": [
+            "Zombie0001",
+            "cc.Texture2D"
+        ],
+        "b7G27UAytBvI9TtWVIjC7o": [
+            "index",
+            "cc.BufferAsset"
+        ],
+        "5djeULsY5D16RaBDQDFX3m": [
+            "index_atlas0",
+            "cc.SpriteFrame",
+            1
+        ],
+        "fddr3O2MREW6nALxV+ZKgp": [
+            "index_atlas0",
+            "cc.Texture2D"
+        ],
+        "3crbL2xd9BcJCxBZwSB3K8": [
+            "index_s7nen",
+            "cc.AudioClip"
+        ]
+    },
+    "uuids": [
+        "02DpxXxbFAfryi30PZcT5d",
+        "19LksPmDFNTreVobDTkdvp",
+        "24eehwQQtGWZETj8lpb3fw",
+        "286uZlg6NJN4C7/ZXlciM+",
+        "360UjzxbBCsqTj1t0VuHZ9",
+        "3crbL2xd9BcJCxBZwSB3K8",
+        "45oyVoGzxPS7+g1K+r33y8",
+        "5djeULsY5D16RaBDQDFX3m",
+        "62+Re2TAtCyK3aTdB8yIPb",
+        "6f3vpUJhNEvY4TadunWjLR",
+        "711am7p09J0LB33cin9txf",
+        "75reUM6GRGfrQY7N48EYlr",
+        "8fQ7ZK9itCvLW611ODcmqr",
+        "96kZzViDdHSbqeel7ckd4w",
+        "a1dHTBfKdNl4g9IuoyfmXV",
+        "b0ZVmF8YJE/Ki326ZfRsuu",
+        "b7G27UAytBvI9TtWVIjC7o",
+        "begeyGV35A5qeCDfQvGFeq",
+        "ceMq8gczNKFozh5Jn/msOr",
+        "fddr3O2MREW6nALxV+ZKgp"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {
+        "07bce45e0": [
+            "711am7p09J0LB33cin9txf",
+            "75reUM6GRGfrQY7N48EYlr",
+            "8fQ7ZK9itCvLW611ODcmqr",
+            "96kZzViDdHSbqeel7ckd4w",
+            "fddr3O2MREW6nALxV+ZKgp"
+        ]
+    },
+    "name": "fgui",
+    "importBase": "import",
+    "nativeBase": "native",
+    "debug": true,
+    "isZip": false,
+    "encrypted": false
+}

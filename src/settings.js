@@ -1,1 +1,21 @@
-window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/scenes/Start.fire",orientation:"landscape",jsList:["assets/libs/fgui/fairygui.js"]};
+window._CCSettings = {
+    platform: "web-mobile",
+    groupList: [
+        "default"
+    ],
+    collisionMatrix: [
+        [
+            true
+        ]
+    ],
+    hasResourcesBundle: false,
+    hasStartSceneBundle: false,
+    remoteBundles: [],
+    subpackages: [],
+    launchScene: "db://assets/scenes/Start.fire",
+    orientation: "landscape",
+    debug: true,
+    jsList: [
+        "assets/libs/fgui/fairygui.js"
+    ]
+};
