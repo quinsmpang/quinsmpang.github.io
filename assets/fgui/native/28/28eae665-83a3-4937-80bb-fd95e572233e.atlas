@@ -1,0 +1,48 @@
+
+Zombie0001.png
+size: 137,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/body
+  rotate: false
+  xy: 89, 45
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+images/head
+  rotate: false
+  xy: 2, 7
+  size: 85, 69
+  orig: 85, 69
+  offset: 0, 0
+  index: -1
+images/left
+  rotate: false
+  xy: 89, 2
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+images/left_leg
+  rotate: false
+  xy: 112, 21
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+images/right
+  rotate: false
+  xy: 110, 2
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+images/right_leg
+  rotate: false
+  xy: 89, 22
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
